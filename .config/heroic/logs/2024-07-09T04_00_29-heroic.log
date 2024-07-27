@@ -1,0 +1,52 @@
+(00:00:29) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(00:00:29) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(00:00:29) INFO:    [Connection]:       Connectivity: check-online
+(00:00:29) INFO:    [Connection]:       Pinging external endpoints
+(00:00:29) INFO:    [Gog]:              Checking for existing gog manifests
+(00:00:29) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "status": "new",
+    "title": "Widevine Content Decryption Module",
+    "version": "4.10.2710.0"
+  }
+}
+(00:00:29) WARNING: [Backend]:          Protocol already registered.
+(00:00:29) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/riley314/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(00:00:29) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json --version
+(00:00:29) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/riley314/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(00:00:29) INFO:    [Connection]:       Connectivity: online
+(00:00:29) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(00:00:29) INFO:    [Backend]:          User Not Found, removing it from Store
+(00:00:29) INFO:    [Gog]:              Checking if login is valid
+(00:00:29) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(00:00:29) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(00:00:29) INFO:    [Backend]:          
+System Information:
+CPU: 12x 12th Gen Intel(R) Core(TM) i5-12400
+Memory: 16.5 GB (used: 4.89 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA104 [GeForce RTX 3070]
+    IDs: D=2484 V=10de SD=3755 SV=3842
+    Driver: nvidia
+OS: Arch Linux 6.9.7-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+(00:00:29) INFO:    [Frontend]:         Refreshing undefined Library
+(00:00:29) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(00:00:29) INFO:    [Legendary]:        Refreshing library...
+(00:00:29) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(00:00:29) INFO:    [Backend]:          Frontend Ready
+(00:00:30) INFO:    [Backend]:          Checking for new Heroic Updates
+(00:00:30) INFO:    [Backend]:          Checking for current version changelog
+(00:00:30) INFO:    [Gog]:              Getting GOG library
+(00:00:30) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(00:00:30) INFO:    [Gog]:              Saved username to config file

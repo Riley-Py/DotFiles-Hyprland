@@ -1,0 +1,37 @@
+{
+  "1296690054": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": false,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-9.12",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver"
+    },
+    "winePrefix": "/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided",
+    "wineCrossoverBottle": "",
+    "gogSaves": [
+      {
+        "name": "saves",
+        "location": "/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided/pfx/dosdevices/c:/users/steamuser/Documents/My Games/Deus Ex Mankind Divided/Saves"
+      }
+    ]
+  },
+  "version": "v0",
+  "explicit": true
+}

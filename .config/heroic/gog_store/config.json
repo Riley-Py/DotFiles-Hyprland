@@ -1,0 +1,64 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "CA",
+		"currencies": [
+			{
+				"code": "CAD",
+				"symbol": "C$"
+			},
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "CAD",
+			"symbol": "C$"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "ESRB",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "6516abba960550bcc22d712a0f14fb7a",
+			"wishlist": "0ca7a48fb54e9eec75e2be4c194fcccb",
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 6,
+			"forum": 0,
+			"total": 6
+		},
+		"userId": "54842462794481",
+		"username": "Yelir314",
+		"galaxyUserId": "54842462732304435",
+		"avatar": "https://images.gog.com/48689112ea1e614b099a281ef23c76087e1a1a94bbdba2492dbd59b7ce1fa560",
+		"walletBalance": {
+			"currency": "CAD",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 33,
+			"movies": 0
+		},
+		"wishlistedItems": 5,
+		"friends": [
+			{
+				"username": "kafkaesquescone",
+				"userSince": 1634730704,
+				"galaxyId": "54852460218399198",
+				"avatar": "https://images.gog.com/805fbe8c0080646f9c66ff0409e8edc4fcf1ec44178fd2b3b8c6b0df7c148480"
+			}
+		],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

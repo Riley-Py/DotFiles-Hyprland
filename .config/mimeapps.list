@@ -1,0 +1,15 @@
+[Default Applications]
+image/jpeg=firefox.desktop
+video/mp4=firefox.desktop
+image/png=firefox.desktop
+text/x-python3=code-oss.desktop
+application/x-zerosize=code-oss.desktop
+text/plain=code-oss.desktop
+
+[Added Associations]
+image/jpeg=firefox.desktop;
+video/mp4=firefox.desktop;
+image/png=firefox.desktop;
+text/x-python3=code-oss.desktop;
+application/x-zerosize=code-oss.desktop;
+text/plain=code-oss.desktop;

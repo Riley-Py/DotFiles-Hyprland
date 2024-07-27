@@ -1,0 +1,289 @@
+(18:02:50) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(18:02:50) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(18:02:50) INFO:    [Connection]:       Connectivity: check-online
+(18:02:50) INFO:    [Connection]:       Pinging external endpoints
+(18:02:50) INFO:    [Gog]:              Checking for existing gog manifests
+(18:02:50) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "status": "new",
+    "title": "Widevine Content Decryption Module",
+    "version": "4.10.2710.0"
+  }
+}
+(18:02:50) WARNING: [Backend]:          Protocol already registered.
+(18:02:50) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/riley314/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(18:02:50) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json --version
+(18:02:50) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/riley314/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(18:02:50) INFO:    [Connection]:       Connectivity: online
+(18:02:50) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:02:50) INFO:    [Backend]:          User Not Found, removing it from Store
+(18:02:51) INFO:    [Gog]:              Checking if login is valid
+(18:02:51) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:02:51) INFO:    [Backend]:          
+System Information:
+CPU: 12x 12th Gen Intel(R) Core(TM) i5-12400
+Memory: 16.5 GB (used: 2.96 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA104 [GeForce RTX 3070]
+    IDs: D=2484 V=10de SD=3755 SV=3842
+    Driver: nvidia
+OS: Arch Linux 6.9.7-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+(18:02:51) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(18:02:51) INFO:    [Frontend]:         Refreshing undefined Library
+(18:02:51) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(18:02:51) INFO:    [Legendary]:        Refreshing library...
+(18:02:51) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:02:51) INFO:    [Backend]:          Frontend Ready
+(18:02:51) INFO:    [Backend]:          Checking for new Heroic Updates
+(18:02:51) INFO:    [Backend]:          Checking for current version changelog
+(18:02:51) INFO:    [Gog]:              Getting GOG library
+(18:02:51) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:02:52) INFO:    [Gog]:              Saved username to config file
+(18:02:53) INFO:    [Gog]:              Saved games data
+(18:02:53) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(18:02:53) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:02:53) INFO:    [Winetricks]:       Downloading Winetricks
+(18:02:53) INFO:    [Gog]:              Found 0 game(s) to update
+(18:02:55) INFO:    [WineDownloader]:   Updating wine versions info
+(18:02:55) INFO:    [WineDownloader]:   Fetching upstream information...
+(18:02:56) INFO:    [Backend]:          Starting the Download Queue
+(18:02:56) INFO:    [WineDownloader]:   wine versions updated
+(18:05:21) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Deus Ex Mankind Divided
+(18:05:21) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:05:21) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Deus Ex Mankind Divided
+(18:05:21) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:05:21) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(18:05:21) INFO:    [Gog]:              Getting game metadata: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json info 1296690054 --os windows
+(18:05:21) INFO:    [Gog]:              Getting game metadata: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json info 1296690054 --os windows
+(18:05:25) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:05:28) INFO:    [Backend]:          1296690054: Setting wineVersion to {"bin":"/usr/bin/wine","name":"Wine Default - wine-9.12","type":"wine","wineserver":"/usr/bin/wineserver"}
+(18:05:40) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:05:40) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:05:40) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:05:40) INFO:    [Winetricks]:       Running WINEPREFIX='/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided' PATH='/usr/bin':$PATH /home/riley314/.config/heroic/tools/winetricks dlls list
+(18:05:40) WARNING: [Winetricks]:       7z not installed! Winetricks might fail to install some packages or even open
+(18:05:40) ERROR:   [Winetricks]:       Executing cd /home/riley314/.config/heroic/tools
+
+(18:05:46) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:05:46) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:05:46) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:05:46) INFO:    [Winetricks]:       Running WINEPREFIX='/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided' PATH='/usr/bin':$PATH /home/riley314/.config/heroic/tools/winetricks fonts list
+(18:05:46) WARNING: [Winetricks]:       7z not installed! Winetricks might fail to install some packages or even open
+(18:05:46) ERROR:   [Winetricks]:       Executing cd /home/riley314/.config/heroic/tools
+
+(18:05:53) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:05:54) INFO:    [Backend]:          Launching Deus Ex: Mankind Divided (1296690054)
+(18:05:54) INFO:    [Backend]:          Preventing display from sleep
+(18:05:54) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:05:54) INFO:    [Backend]:          Preventing machine to sleep
+(18:05:54) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:05:54) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:05:54) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:05:54) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:05:54) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:05:54) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:05:54) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(18:06:06) INFO:    [Backend]:          Created/Updated Wineprefix at /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided
+(18:06:06) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:06) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:06) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:06) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:06) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(18:06:09) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:09) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:09) DEBUG:   [Backend]:          Running Wine command: cmd /c winepath -w /home/riley314/Games/Heroic/Deus Ex Mankind Divided
+(18:06:12) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:12) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:12) DEBUG:   [Backend]:          Running Wine command: cmd /c winepath -w /home/riley314/.config/heroic/gogdlConfig/heroic_gogdl/gog-support/1296690054
+(18:06:12) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:06:12) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:06:16) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:16) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:16) DEBUG:   [Backend]:          Running Wine command: /home/riley314/.config/heroic/tools/redist/gog/__redist/ISI/scriptinterpreter.exe /VERYSILENT /DIR=Z:\home\riley314\Games\Heroic\Deus Ex Mankind Divided /Language=English /LANG=English /ProductId=1296690054 /galaxyclient /buildId=53307442018838439 /versionName=1.19 hotfix /supportDir=Z:\home\riley314\.config\heroic\gogdlConfig\heroic_gogdl\gog-support\1296690054 /nodesktopshorctut /nodesktopshortcut
+(18:06:21) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:21) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:21) DEBUG:   [Backend]:          Running Wine command: /home/riley314/.config/heroic/tools/redist/gog/__redist/ISI/scriptinterpreter.exe /VERYSILENT /DIR=Z:\home\riley314\Games\Heroic\Deus Ex Mankind Divided /Language=English /LANG=English /ProductId=1753119582 /galaxyclient /buildId=53307442018838439 /versionName=1.19 hotfix /supportDir=Z:\home\riley314\.config\heroic\gogdlConfig\heroic_gogdl\gog-support\1296690054 /nodesktopshorctut /nodesktopshortcut
+(18:06:26) INFO:    [Gog]:              Setup: Finished
+(18:06:26) INFO:    [DXVKInstaller]:    installing dxvk on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d10core /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d11 /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d9 /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v dxgi /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d10core /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d11 /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d9 /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v dxgi /d native,builtin /f
+(18:06:26) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12 /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12core /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12 /d native,builtin /f
+(18:06:26) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:26) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12core /d native,builtin /f
+(18:06:26) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:06:26) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:06:26) INFO:    [Runtime]:          Downloading runtime eac_runtime with download link https://github.com/lutris/buildbot/releases/download/2022.06.23/eac_runtime-20240114.tar.xz
+(18:06:27) INFO:    [Backend]:          Extracting /home/riley314/.config/heroic/tools/runtimes/eac_runtime-20240114.tar.xz to /home/riley314/.config/heroic/tools/runtimes/eac_runtime using native tar
+(18:06:27) INFO:    [Runtime]:          Downloading runtime battleye_runtime with download link https://github.com/lutris/buildbot/releases/download/2024-05-21/battleeye_runtime.tar.xz
+(18:06:28) INFO:    [Backend]:          Extracting /home/riley314/.config/heroic/tools/runtimes/battleeye_runtime.tar.xz to /home/riley314/.config/heroic/tools/runtimes/battleye_runtime using native tar
+(18:06:28) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(18:06:28) INFO:    [Gog]:              Launching Deus Ex: Mankind Divided: HEROIC_APP_NAME=1296690054 HEROIC_APP_RUNNER=gog HEROIC_APP_SOURCE=gog STEAM_COMPAT_INSTALL_PATH="/home/riley314/Games/Heroic/Deus Ex Mankind Divided" LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json launch "/home/riley314/Games/Heroic/Deus Ex Mankind Divided" 1296690054 --wine /usr/bin/wine --platform windows
+(18:06:28) INFO:    [Backend]:          Stopping Power Saver Blocker
+(18:06:28) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(18:06:28) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:06) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(20:12:06) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(20:12:07) INFO:    [Gog]:              Posted session to gameplay.gog.com
+(20:12:07) INFO:    [Frontend]:         Refreshing gog Library
+(20:12:07) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(20:12:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:07) INFO:    [Gog]:              Getting GOG library
+(20:12:07) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Saved games data
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:08) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:13) INFO:    [Backend]:          Launching Deus Ex: Mankind Divided (1296690054)
+(20:12:13) INFO:    [Backend]:          Preventing display from sleep
+(20:12:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(20:12:13) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:13) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(20:12:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(20:12:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.12
+(20:12:13) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(20:12:13) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(20:12:16) INFO:    [DXVKInstaller]:    installing dxvk on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided
+(20:12:16) INFO:    [DXVKInstaller]:    dxvk already installed!
+(20:12:16) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided
+(20:12:16) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(20:12:16) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.12!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(20:12:16) INFO:    [Gog]:              Launching Deus Ex: Mankind Divided: HEROIC_APP_NAME=1296690054 HEROIC_APP_RUNNER=gog HEROIC_APP_SOURCE=gog STEAM_COMPAT_INSTALL_PATH="/home/riley314/Games/Heroic/Deus Ex Mankind Divided" LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Mankind Divided" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json launch "/home/riley314/Games/Heroic/Deus Ex Mankind Divided" 1296690054 --wine /usr/bin/wine --platform windows
+(20:12:16) INFO:    [Backend]:          Stopping Power Saver Blocker
+(20:12:16) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(20:12:16) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:05) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(22:14:05) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(22:14:05) INFO:    [Gog]:              Posted session to gameplay.gog.com
+(22:14:05) INFO:    [Frontend]:         Refreshing gog Library
+(22:14:05) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(22:14:05) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:05) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Getting GOG library
+(22:14:06) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:06) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Saved games data
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform
+(22:14:07) INFO:    [Gog]:              Got install info from cache for 1296690054 on windows platform

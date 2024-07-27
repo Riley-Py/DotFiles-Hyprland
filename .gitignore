@@ -1,0 +1,12 @@
+/*
+!.config/
+!.mozilla/
+!.gitignore
+!Documents/
+Documents/*
+!Documents/Scripts/
+!Pictures/
+Pictures/*
+!Pictures/Wallpapers/
+
+

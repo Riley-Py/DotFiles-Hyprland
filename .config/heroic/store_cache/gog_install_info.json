@@ -1,0 +1,333 @@
+{
+	"__timestamp": {
+		"2049187585_windows_null_undefined_": "Tue Jul 02 2024 01:26:43 GMT-0400 (Eastern Daylight Time)",
+		"1158493447_windows_null_undefined_": "Tue Jul 02 2024 01:27:00 GMT-0400 (Eastern Daylight Time)",
+		"1296690054_windows_null_undefined_": "Tue Jul 02 2024 18:05:22 GMT-0400 (Eastern Daylight Time)"
+	},
+	"2049187585_windows_null_undefined_": {
+		"game": {
+			"app_name": "2049187585",
+			"title": "Control Ultimate Edition",
+			"owned_dlc": [],
+			"version": "Update 2",
+			"launch_options": [],
+			"branches": [
+				null
+			],
+			"buildId": "53719897926016097"
+		},
+		"manifest": {
+			"download_size": 27950274323,
+			"disk_size": 46002178545,
+			"perLangSize": {
+				"*": {
+					"download_size": 0,
+					"disk_size": 0
+				},
+				"en-US": {
+					"download_size": 27950274323,
+					"disk_size": 46002178545
+				}
+			},
+			"app_name": "2049187585",
+			"languages": [
+				"en-US"
+			],
+			"versionEtag": "\"2647128380\"",
+			"builds": [
+				{
+					"build_id": "53719897926016097",
+					"product_id": "2049187585",
+					"os": "windows",
+					"branch": null,
+					"version_name": "Update 2",
+					"tags": [
+						"editor_v_1_4_0",
+						"csb_10_6_1_w_141"
+					],
+					"public": true,
+					"date_published": "2020-09-24T20:11:56+0000",
+					"generation": 2,
+					"link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e0/7b/e07bbd7dd0eaa226496967ea851148be"
+				},
+				{
+					"build_id": "53663856743150837",
+					"product_id": "2049187585",
+					"os": "windows",
+					"branch": null,
+					"version_name": "Update 1",
+					"tags": [
+						"editor_v_1_4_0",
+						"csb_10_6_1_w_141"
+					],
+					"public": true,
+					"date_published": "2020-09-05T12:21:42+0000",
+					"generation": 2,
+					"link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f4/2e/f42e25bb8acd0562167a12e283e76066"
+				}
+			],
+			"dependencies": []
+		}
+	},
+	"1158493447_windows_null_undefined_": {
+		"game": {
+			"app_name": "1158493447",
+			"title": "Prey",
+			"owned_dlc": [],
+			"version": "12742273",
+			"launch_options": [],
+			"branches": [
+				null
+			],
+			"buildId": "56672689455030710"
+		},
+		"manifest": {
+			"download_size": 25891361304,
+			"disk_size": 27210481511,
+			"perLangSize": {
+				"*": {
+					"download_size": 210,
+					"disk_size": 481
+				},
+				"ru-RU": {
+					"download_size": 25891361093,
+					"disk_size": 27210481030
+				},
+				"es-ES": {
+					"download_size": 25891361094,
+					"disk_size": 27210481030
+				},
+				"zh-Hant": {
+					"download_size": 25891361106,
+					"disk_size": 27210481046
+				},
+				"de-DE": {
+					"download_size": 25891361092,
+					"disk_size": 27210481029
+				},
+				"en-US": {
+					"download_size": 25891361094,
+					"disk_size": 27210481030
+				},
+				"pt-BR": {
+					"download_size": 25891361104,
+					"disk_size": 27210481045
+				},
+				"pl-PL": {
+					"download_size": 25891361091,
+					"disk_size": 27210481029
+				},
+				"fr-FR": {
+					"download_size": 25891361092,
+					"disk_size": 27210481029
+				},
+				"it-IT": {
+					"download_size": 25891361092,
+					"disk_size": 27210481030
+				},
+				"zh-Hans": {
+					"download_size": 25891361106,
+					"disk_size": 27210481045
+				},
+				"ja-JP": {
+					"download_size": 25891361094,
+					"disk_size": 27210481031
+				}
+			},
+			"app_name": "1158493447",
+			"languages": [
+				"ja-JP",
+				"zh-Hans",
+				"pl-PL",
+				"ru-RU",
+				"pt-BR",
+				"fr-FR",
+				"it-IT",
+				"zh-Hant",
+				"en-US",
+				"es-ES",
+				"de-DE"
+			],
+			"versionEtag": "\"4041380386\"",
+			"builds": [
+				{
+					"build_id": "56672689455030710",
+					"product_id": "1158493447",
+					"os": "windows",
+					"branch": null,
+					"version_name": "12742273",
+					"tags": [
+						"receiver_v1",
+						"csb_10_6_1_w_158"
+					],
+					"public": true,
+					"date_published": "2023-07-10T08:54:55+0000",
+					"generation": 2,
+					"link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f5/1e/f51e1d49f8bc619667844aa9ecf770a4"
+				},
+				{
+					"build_id": "53364541654525897",
+					"product_id": "1158493447",
+					"os": "windows",
+					"branch": null,
+					"version_name": "10966486",
+					"tags": [
+						"csb_10_6_1_w_134"
+					],
+					"public": true,
+					"date_published": "2020-05-25T07:00:17+0000",
+					"generation": 2,
+					"link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8b/21/8b216877bb60382769fa400739d65f68"
+				}
+			],
+			"dependencies": [
+				"DirectX",
+				"MSVC2017",
+				"MSVC2017_x64"
+			]
+		}
+	},
+	"1296690054_windows_null_undefined_": {
+		"game": {
+			"app_name": "1296690054",
+			"title": "Deus Ex: Mankind Divided",
+			"owned_dlc": [
+				{
+					"app_name": "1753119582",
+					"title": "Deus Ex: Mankind Divided™ DLC - Season Pass",
+					"perLangSize": {
+						"*": {
+							"download_size": 0,
+							"disk_size": 0
+						},
+						"de-DE": {
+							"download_size": 11134337160,
+							"disk_size": 18171909969
+						},
+						"en-US": {
+							"download_size": 11134337161,
+							"disk_size": 18171909970
+						},
+						"pl-PL": {
+							"download_size": 11134337160,
+							"disk_size": 18171909969
+						},
+						"pt-BR": {
+							"download_size": 11134337176,
+							"disk_size": 18171909985
+						},
+						"it-IT": {
+							"download_size": 11134337161,
+							"disk_size": 18171909970
+						},
+						"fr-FR": {
+							"download_size": 11134337161,
+							"disk_size": 18171909969
+						},
+						"ru-RU": {
+							"download_size": 11134337162,
+							"disk_size": 18171909970
+						},
+						"es-ES": {
+							"download_size": 11134337161,
+							"disk_size": 18171909970
+						}
+					}
+				}
+			],
+			"version": "1.19 hotfix",
+			"launch_options": [],
+			"branches": [
+				null
+			],
+			"buildId": "53307442018838439"
+		},
+		"manifest": {
+			"download_size": 48444070202,
+			"disk_size": 73288756452,
+			"perLangSize": {
+				"*": {
+					"download_size": 0,
+					"disk_size": 0
+				},
+				"de-DE": {
+					"download_size": 37309733038,
+					"disk_size": 55116846481
+				},
+				"en-US": {
+					"download_size": 37309733041,
+					"disk_size": 55116846482
+				},
+				"pl-PL": {
+					"download_size": 37309733041,
+					"disk_size": 55116846481
+				},
+				"pt-BR": {
+					"download_size": 37309733055,
+					"disk_size": 55116846497
+				},
+				"it-IT": {
+					"download_size": 37309733040,
+					"disk_size": 55116846482
+				},
+				"fr-FR": {
+					"download_size": 37309733041,
+					"disk_size": 55116846481
+				},
+				"ru-RU": {
+					"download_size": 37309733041,
+					"disk_size": 55116846482
+				},
+				"es-ES": {
+					"download_size": 37309733041,
+					"disk_size": 55116846482
+				}
+			},
+			"app_name": "1296690054",
+			"languages": [
+				"es-ES",
+				"pt-BR",
+				"pl-PL",
+				"en-US",
+				"de-DE",
+				"ru-RU",
+				"it-IT",
+				"fr-FR"
+			],
+			"versionEtag": "\"1915845242\"",
+			"builds": [
+				{
+					"build_id": "53307442018838439",
+					"product_id": "1296690054",
+					"os": "windows",
+					"branch": null,
+					"version_name": "1.19 hotfix",
+					"tags": [
+						"editor_v_1_4_0",
+						"csb_10_6_1_w_130"
+					],
+					"public": true,
+					"date_published": "2020-05-05T14:07:01+0000",
+					"generation": 2,
+					"link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b4/89/b4896b985b3c1d8e3b7df87ed98421cd"
+				},
+				{
+					"build_id": "53264059008836916",
+					"product_id": "1296690054",
+					"os": "windows",
+					"branch": null,
+					"version_name": "1.19",
+					"tags": [
+						"editor_v_1_4_0",
+						"csb_10_6_1_w_130"
+					],
+					"public": true,
+					"date_published": "2020-04-20T14:52:35+0000",
+					"generation": 2,
+					"link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/98/da/98da8188ba601f6776ca1bf175faf3f8"
+				}
+			],
+			"dependencies": []
+		}
+	}
+}

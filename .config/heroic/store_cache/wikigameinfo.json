@@ -1,0 +1,134 @@
+{
+	"Deus Ex Mankind Divided": {
+		"pcgamingwiki": {
+			"steamID": "337000",
+			"howLongToBeatID": "25434",
+			"metacritic": {
+				"score": "83",
+				"urlid": "deus-ex-mankind-divided"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "83",
+				"urlid": "deus-ex-mankind-divided"
+			},
+			"direct3DVersions": [
+				"11",
+				"12"
+			],
+			"genres": [
+				"Immersivesim",
+				"Shooter",
+				"Stealth"
+			],
+			"releaseDate": [
+				"Windows: August 23, 2016",
+				"Linux: November 3, 2016|ref=<ref name=\"ferallin\"/>",
+				"OS X: December 12, 2017|ref=<ref name=\"feral\"/>"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 188657,
+			"comp_main": 57569,
+			"comp_plus": 110593
+		},
+		"gamesdb": {
+			"steamID": "337000"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		}
+	},
+	"__timestamp": {
+		"Deus Ex Mankind Divided": "Tue Jul 02 2024 00:56:54 GMT-0400 (Eastern Daylight Time)",
+		"Control Ultimate Edition": "Tue Jul 02 2024 01:26:43 GMT-0400 (Eastern Daylight Time)",
+		"Prey": "Tue Jul 02 2024 01:27:04 GMT-0400 (Eastern Daylight Time)"
+	},
+	"Control Ultimate Edition": {
+		"pcgamingwiki": {
+			"steamID": "870780",
+			"howLongToBeatID": "57507",
+			"metacritic": {
+				"score": "85",
+				"urlid": "control"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "83",
+				"urlid": "control"
+			},
+			"direct3DVersions": [
+				"11",
+				"12"
+			],
+			"genres": [
+				"Action"
+			],
+			"releaseDate": [
+				"Windows: August 27, 2019"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 139172,
+			"comp_main": 45775,
+			"comp_plus": 91342
+		},
+		"gamesdb": {
+			"steamID": "870780"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "platinum",
+			"steamDeckCatagory": 3
+		}
+	},
+	"Prey": {
+		"pcgamingwiki": {
+			"steamID": "480490",
+			"howLongToBeatID": "44590",
+			"metacritic": {
+				"score": "82",
+				"urlid": "prey"
+			},
+			"opencritic": {
+				"score": "81",
+				"urlid": "3589/prey"
+			},
+			"igdb": {
+				"score": "76",
+				"urlid": "prey--1"
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"FPS",
+				"Immersivesim"
+			],
+			"releaseDate": [
+				"Windows: May 5, 2017"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 164898,
+			"comp_main": 58177,
+			"comp_plus": 100523
+		},
+		"gamesdb": {
+			"steamID": "480490"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "platinum",
+			"steamDeckCatagory": 3
+		}
+	}
+}

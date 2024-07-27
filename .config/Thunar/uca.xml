@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1720326173340528-1</unique-id>
+	<command>/usr/bin/kitty --working-directory %f</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>emblem-package</icon>
+	<name>Extract</name>
+	<submenu></submenu>
+	<unique-id>1721706320853065-1</unique-id>
+	<command>atool -x %n</command>
+	<description></description>
+	<range></range>
+	<patterns>*.zip;*.tar.gz;*.7zip;*.tar</patterns>
+	<other-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Compress </name>
+	<submenu></submenu>
+	<unique-id>1721793760074454-2</unique-id>
+	<command>apack %f.tar.gz %F</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<audio-files/>
+	<image-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>

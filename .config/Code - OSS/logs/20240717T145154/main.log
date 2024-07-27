@@ -1,0 +1,5 @@
+2024-07-17 14:51:54.698 [info] update#setState disabled
+2024-07-17 14:51:54.699 [info] update#ctor - updates are disabled as there is no update URL
+2024-07-17 14:51:55.525 [error] Blocked vscode-webview request vscode-webview://0mtpc3nahi71pc9m332pfr5vdphmktrdb9e6ie8dnu5l0m5c8gdj/index.html?id=f887d6a9-3450-418e-a7fe-62510ad17cd7&origin=f887d6a9-3450-418e-a7fe-62510ad17cd7&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-07-17 14:51:58.864 [info] Extension host with pid 10109 exited with code: 0, signal: unknown.
+2024-07-17 14:51:58.892 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1088622288, signal: unknown

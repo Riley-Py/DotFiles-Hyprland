@@ -1,0 +1,81 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "gog-redist",
+				"runner": "gog",
+				"path": "/home/riley314/.config/heroic/tools/redist/gog",
+				"platformToInstall": "windows",
+				"gameInfo": {
+					"app_name": "gog-redist",
+					"runner": "gog",
+					"title": "Galaxy Common Redistributables",
+					"canRunOffline": true,
+					"install": {
+						"is_dlc": true
+					},
+					"is_installed": true,
+					"art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+					"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png"
+				},
+				"size": "?? MB",
+				"dependencies": []
+			},
+			"addToQueueTime": 1719896261851,
+			"startTime": 1719896261865,
+			"endTime": 1719896263540,
+			"type": "update",
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "1296690054",
+				"path": "/home/riley314/Games/Heroic",
+				"installDlcs": [
+					"1753119582"
+				],
+				"sdlList": [],
+				"installLanguage": "en-US",
+				"runner": "gog",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"runner": "gog",
+					"store_url": "https://www.gog.com/en/game/deus_ex_mankind_divided",
+					"developer": "Eidos Montréal",
+					"app_name": "1296690054",
+					"art_cover": "https://images.gog.com/180dd4d2ab847f9f17d906f81110050bf90ea4d64130635430a0d27ff98ad224.jpg?namespace=gamesdb",
+					"art_square": "https://images.gog.com/8a612a80a3113cfba87f451255ec70e6f7dfb89ce5e6cb53e83b8fb91e840393.jpg?namespace=gamesdb",
+					"art_background": "https://images.gog.com/21ec85441cb163bf77f5b5934854b35d50df833d6233a702f3b5d995f4bd65fd.webp?namespace=gamesdb",
+					"cloud_save_enabled": false,
+					"extra": {
+						"about": {
+							"description": "Deus Ex: Mankind Divided directly follows the aftermath of the Aug Incident, a day when mechanically augmented citizens all over the world were stripped of control over their minds and bodies, resulting in the deaths of millions of innocents. The year is now 2029, and the golden era of augmentations is over. Mechanically augmented humans have been deemed outcasts and segregated from the rest of society. Crime and acts of terror serve as a thin veil to cover up an overarching conspiracy aimed at controlling the future of mankind…",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.gog.com/en/game/deus_ex_mankind_divided"
+					},
+					"folder_name": "",
+					"install": {
+						"is_dlc": false
+					},
+					"installable": true,
+					"is_installed": false,
+					"namespace": "deus_ex_mankind_divided",
+					"save_folder": "",
+					"title": "Deus Ex: Mankind Divided",
+					"canRunOffline": true,
+					"is_mac_native": false,
+					"is_linux_native": false
+				},
+				"size": "45.12 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1719896261849,
+			"endTime": 1719897834839,
+			"startTime": 1719896263558,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

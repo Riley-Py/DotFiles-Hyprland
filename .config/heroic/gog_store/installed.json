@@ -1,0 +1,20 @@
+{
+	"installed": [
+		{
+			"platform": "windows",
+			"executable": "",
+			"install_path": "/home/riley314/Games/Heroic/Deus Ex Mankind Divided",
+			"install_size": "68.26 GiB",
+			"is_dlc": false,
+			"version": "1.19 hotfix",
+			"appName": "1296690054",
+			"installedDLCs": [
+				"1753119582"
+			],
+			"language": "en-US",
+			"versionEtag": "\"1915845242\"",
+			"buildId": "53307442018838439",
+			"pinnedVersion": false
+		}
+	]
+}
