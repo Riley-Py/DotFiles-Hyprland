@@ -16,10 +16,9 @@ This allows for an ambient setup and not having to worry about color matching so
 
 ![20240727_15h48m56s_grim](https://github.com/user-attachments/assets/6f31e69a-00af-416d-941d-516745ab79a5)
 
-## Notes
-
+## Note
 - This is constantly shifting and evolving as we speak - I will be adding to this as I add more stuff to my system
-- It may disappear sometimes - GitHub was erroring out on me when I try to make this public and then try to commit stuff. This repository therefore may go private for a bit, and then go public again
 
 
+## Closing Remarks
 I love Hyprland very much; streamlined, customizable, and the best part: _clean_.  Also, I finally learned how to use gitignore so that I don't have to manually add files (yay!!)
