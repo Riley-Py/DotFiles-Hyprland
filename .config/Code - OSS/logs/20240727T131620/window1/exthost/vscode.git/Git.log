@@ -2,3 +2,5 @@
 2024-07-27 13:16:27.502 [info] Validating found git in: "git"
 2024-07-27 13:16:27.502 [info] Using git "2.45.2" from "git"
 2024-07-27 13:17:15.619 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-27 15:16:07.916 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-27 15:16:11.022 [info] > git rev-parse --show-toplevel [1ms]

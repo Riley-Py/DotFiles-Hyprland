@@ -3,7 +3,7 @@
     "profileAssociations": {
         "workspaces": {},
         "emptyWindows": {
-            "1722098582771": "__default__profile__"
+            "1722100580954": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -15,7 +15,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1722098582771"
+                "backupFolder": "1722100580954"
             }
         ]
     },
@@ -1659,20 +1659,20 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/riley314/.config/Code - OSS/Backups/1722098582771",
+            "backupPath": "/home/riley314/.config/Code - OSS/Backups/1722100580954",
             "uiState": {
                 "mode": 1,
-                "x": 714,
-                "y": 546,
-                "width": 300,
-                "height": 491
+                "x": 968,
+                "y": 13,
+                "width": 939,
+                "height": 1024
             }
         },
         "openedWindows": []

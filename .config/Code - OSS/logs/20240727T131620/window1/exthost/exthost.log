@@ -10,3 +10,5 @@
 2024-07-27 13:16:44.497 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-07-27 13:16:44.503 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-07-27 13:16:44.536 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-27 15:44:00.653 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-27 15:44:00.670 [info] Extension host with pid 13122 exiting with code 0

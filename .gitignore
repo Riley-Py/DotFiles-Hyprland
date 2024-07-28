@@ -1,5 +1,6 @@
 /*
 !.config/
+.config/vesktop/*
 !.mozilla/
 !.gitignore
 !Documents/
@@ -8,5 +9,6 @@ Documents/*
 !Pictures/
 Pictures/*
 !Pictures/Wallpapers/
+!README.md
 
 

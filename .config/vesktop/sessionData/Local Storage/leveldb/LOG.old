@@ -1,6 +1,0 @@
-2024/07/27-17:22:43.839 2b3a Reusing MANIFEST /home/riley314/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/07/27-17:22:43.842 2b3a Recovering log #3
-2024/07/27-17:22:43.842 2b3a Reusing old log /home/riley314/.config/vesktop/sessionData/Local Storage/leveldb/000003.log 
-2024/07/27-17:39:17.643 2b3c Level-0 table #5: started
-2024/07/27-17:39:17.659 2b3c Level-0 table #5: 20599 bytes OK
-2024/07/27-17:39:17.670 2b3c Delete type=0 #3
