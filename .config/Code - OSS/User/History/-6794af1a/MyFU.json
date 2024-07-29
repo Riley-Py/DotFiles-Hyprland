@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Wal",
+    "window.titleBarStyle": "custom",
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.banner": "never"
+}
