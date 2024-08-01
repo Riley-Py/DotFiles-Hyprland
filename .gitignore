@@ -1,6 +1,7 @@
 /*
 !.config/
 .config/vesktop/*
+.config/obsidian/*
 !.mozilla/
 !.gitignore
 !Documents/
