@@ -1,5 +1,0 @@
-2024-07-17 14:54:37.855 [info] update#setState disabled
-2024-07-17 14:54:37.856 [info] update#ctor - updates are disabled as there is no update URL
-2024-07-17 14:58:56.655 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
-2024-07-17 14:58:56.656 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 10995]: crashed with code 15 and reason 'killed'
-2024-07-17 14:58:56.683 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

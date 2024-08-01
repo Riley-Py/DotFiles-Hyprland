@@ -1,0 +1,12 @@
+2024/08/01-12:50:22.589 3923 Reusing MANIFEST /home/riley314/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2024/08/01-12:50:22.592 3923 Recovering log #3
+2024/08/01-12:50:22.592 3923 Reusing old log /home/riley314/.config/obsidian/Local Storage/leveldb/000003.log 
+2024/08/01-12:55:19.528 3925 Level-0 table #5: started
+2024/08/01-12:55:19.543 3925 Level-0 table #5: 27471 bytes OK
+2024/08/01-12:55:19.554 3925 Delete type=0 #3
+2024/08/01-13:01:01.752 3923 Level-0 table #7: started
+2024/08/01-13:01:01.766 3923 Level-0 table #7: 36076 bytes OK
+2024/08/01-13:01:01.778 3923 Delete type=0 #4
+2024/08/01-13:03:29.676 3925 Level-0 table #9: started
+2024/08/01-13:03:29.693 3925 Level-0 table #9: 60269 bytes OK
+2024/08/01-13:03:29.704 3925 Delete type=0 #6

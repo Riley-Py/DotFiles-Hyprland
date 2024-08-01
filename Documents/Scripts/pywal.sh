@@ -9,6 +9,7 @@ killall waybar
 wallpaper=$(find ~/Pictures/Wallpapers -type f -name "*.jpeg" -o -name "*.jpg" | shuf -n 1)
 wal -i $wallpaper
 cp -f ~/.cache/wal/config ~/.config/cava/
+cp -f ~/.cache/wal/colors-discord.css ~/.config/vesktop/themes/
 swaybg -i $wallpaper & waybar
 
 

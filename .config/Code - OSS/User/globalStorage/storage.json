@@ -1,9 +1,11 @@
 {
     "userDataProfilesMigration": true,
     "profileAssociations": {
-        "workspaces": {},
+        "workspaces": {
+            "file:///home/riley314/Documents/PersonalWebsite-2.0": "__default__profile__"
+        },
         "emptyWindows": {
-            "1722100580954": "__default__profile__"
+            "1722140148953": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -12,10 +14,14 @@
     "telemetry.devDeviceId": "3bad0fb6-5204-4ee3-b4b9-f668020ee31c",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/riley314/Documents/PersonalWebsite-2.0"
+            }
+        ],
         "emptyWindows": [
             {
-                "backupFolder": "1722100580954"
+                "backupFolder": "1722140148953"
             }
         ]
     },
@@ -1640,19 +1646,19 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#100b1a",
+    "themeBackground": "#030411",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "rgba(174, 191, 237, 0.6)",
-            "background": "#100b1a",
-            "editorBackground": "#100b1a",
-            "titleBarBackground": "#100b1a",
-            "activityBarBackground": "#100b1a",
-            "sideBarBackground": "#100b1a",
-            "statusBarBackground": "#100b1a",
-            "statusBarNoFolderBackground": "#130d1f"
+            "foreground": "rgba(173, 190, 221, 0.6)",
+            "background": "#030411",
+            "editorBackground": "#030411",
+            "titleBarBackground": "#030411",
+            "activityBarBackground": "#030411",
+            "sideBarBackground": "#030411",
+            "statusBarBackground": "#030411",
+            "statusBarNoFolderBackground": "#040514"
         },
         "layoutInfo": {
             "sideBarSide": "left",
@@ -1666,12 +1672,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/riley314/.config/Code - OSS/Backups/1722100580954",
+            "folder": "file:///home/riley314/Documents/PersonalWebsite-2.0",
+            "backupPath": "/home/riley314/.config/Code - OSS/Backups/e30e7ee1f31a6f122cca50e096ab406b",
             "uiState": {
                 "mode": 1,
-                "x": 968,
+                "x": 13,
                 "y": 13,
-                "width": 939,
+                "width": 776,
                 "height": 1024
             }
         },
