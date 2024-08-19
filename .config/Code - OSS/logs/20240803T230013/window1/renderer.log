@@ -1,0 +1,3 @@
+2024-08-03 23:00:14.530 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/riley314/Downloads/visits_2024-07-27_2024-08-03.csv","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-08-03 23:00:14.777 [info] Started local extension host with pid 20222.
+2024-08-03 23:00:17.772 [info] [perf] Render performance baseline is 27ms
