@@ -1,0 +1,13 @@
+2024-08-27 13:12:50.344 [info] Extension host with pid 8370 started
+2024-08-27 13:12:50.377 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-27 13:12:50.390 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onLanguage:ignore'
+2024-08-27 13:12:50.408 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-27 13:12:50.431 [info] Eager extensions activated
+2024-08-27 13:12:50.458 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-27 13:12:50.459 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-27 13:13:03.561 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-08-27 13:13:03.624 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: false, activationEvent: '*'
+2024-08-27 13:13:03.644 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-08-27 13:13:03.694 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'api', root cause: Vue.volar
+2024-08-27 13:13:19.656 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-27 13:13:19.660 [info] Extension host with pid 8370 exiting with code 0
