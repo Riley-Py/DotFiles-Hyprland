@@ -5,6 +5,7 @@ image/png=firefox.desktop
 text/x-python3=code-oss.desktop
 application/x-zerosize=code-oss.desktop
 text/plain=code-oss.desktop
+inode/directory=org.strawberrymusicplayer.strawberry.desktop
 
 [Added Associations]
 image/jpeg=firefox.desktop;
@@ -13,3 +14,4 @@ image/png=firefox.desktop;
 text/x-python3=code-oss.desktop;
 application/x-zerosize=code-oss.desktop;
 text/plain=code-oss.desktop;
+inode/directory=audacious.desktop;org.strawberrymusicplayer.strawberry.desktop;

@@ -5,7 +5,8 @@
             "file:///home/riley314/Documents/PersonalWebsite-2.0": "__default__profile__"
         },
         "emptyWindows": {
-            "1722140148953": "__default__profile__"
+            "1722140148953": "__default__profile__",
+            "1722740413788": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -14,14 +15,10 @@
     "telemetry.devDeviceId": "3bad0fb6-5204-4ee3-b4b9-f668020ee31c",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
-            {
-                "folderUri": "file:///home/riley314/Documents/PersonalWebsite-2.0"
-            }
-        ],
+        "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1722140148953"
+                "backupFolder": "1722740413788"
             }
         ]
     },
@@ -1665,21 +1662,20 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/riley314/Documents/PersonalWebsite-2.0",
-            "backupPath": "/home/riley314/.config/Code - OSS/Backups/e30e7ee1f31a6f122cca50e096ab406b",
+            "backupPath": "/home/riley314/.config/Code - OSS/Backups/1722740413788",
             "uiState": {
                 "mode": 1,
-                "x": 13,
+                "x": 968,
                 "y": 13,
-                "width": 776,
-                "height": 1024
+                "width": 939,
+                "height": 504
             }
         },
         "openedWindows": []
