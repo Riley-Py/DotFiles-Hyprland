@@ -1,0 +1,73 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/riley314/.config/heroic/logs/2024-10-02T15_59_03-heroic.log",
+		"lastLogFile": "/home/riley314/.config/heroic/logs/2024-10-02T03_49_25-heroic.log",
+		"legendaryLogFile": "/home/riley314/.config/heroic/logs/2024-10-02T15_59_03-legendary.log",
+		"gogdlLogFile": "/home/riley314/.config/heroic/logs/2024-10-02T15_59_03-gogdl.log",
+		"nileLogFile": "/home/riley314/.config/heroic/logs/2024-10-02T15_59_03-nile.log"
+	},
+	"userHome": "/home/riley314",
+	"language": "en",
+	"theme": "dracula",
+	"window-props": {
+		"x": 13,
+		"y": 13,
+		"width": 1894,
+		"height": 1023,
+		"maximized": false
+	},
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"autoInstallDxvkNvapi": false,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/riley314/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/riley314/.steam/steam",
+		"defaultWinePrefix": "/home/riley314/Games/Heroic/Prefixes/default",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/riley314/Games/Heroic/Prefixes/default",
+		"wineVersion": {
+			"bin": "",
+			"name": "Default Wine - Not Found",
+			"type": "wine"
+		},
+		"enableEsync": true,
+		"enableFsync": true,
+		"enableMsync": false,
+		"eacRuntime": true,
+		"battlEyeRuntime": true,
+		"framelessWindow": false,
+		"beforeLaunchScriptPath": "",
+		"afterLaunchScriptPath": ""
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "1370227705",
+				"title": "Deus Ex: Human Revolution - Director’s Cut"
+			},
+			{
+				"appName": "1296690054",
+				"title": "Deus Ex: Mankind Divided"
+			}
+		]
+	}
+}

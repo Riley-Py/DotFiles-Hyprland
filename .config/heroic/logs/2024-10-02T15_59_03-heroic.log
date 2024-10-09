@@ -1,0 +1,134 @@
+(11:59:04) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(11:59:04) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(11:59:04) INFO:    [Connection]:       Connectivity: check-online
+(11:59:04) INFO:    [Connection]:       Pinging external endpoints
+(11:59:04) INFO:    [Gog]:              Checking for existing gog manifests
+(11:59:04) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "status": "new",
+    "title": "Widevine Content Decryption Module",
+    "version": "4.10.2830.0"
+  }
+}
+(11:59:04) WARNING: [Backend]:          Protocol already registered.
+(11:59:04) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/riley314/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(11:59:04) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json --version
+(11:59:04) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/riley314/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(11:59:04) INFO:    [Connection]:       Connectivity: online
+(11:59:04) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:04) INFO:    [Backend]:          User Not Found, removing it from Store
+(11:59:04) INFO:    [Gog]:              Checking if login is valid
+(11:59:04) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:04) INFO:    [Backend]:          
+System Information:
+CPU: 12x 12th Gen Intel(R) Core(TM) i5-12400
+Memory: 16.5 GB (used: 2.9 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA104 [GeForce RTX 3070]
+    IDs: D=2484 V=10de SD=3755 SV=3842
+    Driver: nvidia
+OS: Arch Linux 6.10.10-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+(11:59:04) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(11:59:04) INFO:    [Frontend]:         Refreshing undefined Library
+(11:59:04) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(11:59:04) INFO:    [Legendary]:        Refreshing library...
+(11:59:04) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:04) INFO:    [Backend]:          Frontend Ready
+(11:59:04) INFO:    [Backend]:          Checking for new Heroic Updates
+(11:59:04) INFO:    [Backend]:          Checking for current version changelog
+(11:59:04) INFO:    [Gog]:              Getting GOG library
+(11:59:04) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:05) INFO:    [Gog]:              Saved username to config file
+(11:59:06) INFO:    [Winetricks]:       Downloading Winetricks
+(11:59:07) INFO:    [Backend]:          Launching Deus Ex: Human Revolution - Director’s Cut (1370227705)
+(11:59:07) INFO:    [Backend]:          Preventing display from sleep
+(11:59:07) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(11:59:07) INFO:    [Backend]:          Preventing machine to sleep
+(11:59:09) INFO:    [WineDownloader]:   Updating wine versions info
+(11:59:09) INFO:    [WineDownloader]:   Fetching upstream information...
+(11:59:09) INFO:    [Backend]:          Starting the Download Queue
+(11:59:10) INFO:    [WineDownloader]:   wine versions updated
+(11:59:10) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(11:59:10) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(11:59:10) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(11:59:10) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.18!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(11:59:10) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(11:59:10) INFO:    [Gog]:              Saved games data
+(11:59:10) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(11:59:10) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:11) INFO:    [Gog]:              Found 0 game(s) to update
+(11:59:14) INFO:    [DXVKInstaller]:    installing dxvk on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Human Revolution - Director’s Cut
+(11:59:14) INFO:    [DXVKInstaller]:    dxvk already installed!
+(11:59:14) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Human Revolution - Director’s Cut
+(11:59:14) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(11:59:14) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.18!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(11:59:14) INFO:    [Gog]:              Launching Deus Ex: Human Revolution - Director’s Cut: HEROIC_APP_NAME=1370227705 HEROIC_APP_RUNNER=gog HEROIC_APP_SOURCE=gog STEAM_COMPAT_INSTALL_PATH="/home/riley314/Games/Heroic/Deus Ex HRDC" LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Human Revolution - Director’s Cut" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json launch "/home/riley314/Games/Heroic/Deus Ex HRDC" 1370227705 --wine /usr/bin/wine --platform windows
+(11:59:14) INFO:    [Backend]:          Stopping Power Saver Blocker
+(11:59:27) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Deus Ex Human Revolution - Director’s Cut
+(11:59:27) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:27) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Deus Ex Human Revolution - Director’s Cut
+(11:59:27) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:27) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(11:59:27) INFO:    [Gog]:              Getting game metadata: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json info 1370227705 --os windows
+(11:59:27) INFO:    [Gog]:              Getting game metadata: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json info 1370227705 --os windows
+(12:06:13) ERROR:   [Backend]:          Aborting not possible. Could not find a matching abort controller for 1370227705
+(12:06:14) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(12:06:14) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(12:06:14) INFO:    [Gog]:              Posted session to gameplay.gog.com
+(12:06:14) INFO:    [Frontend]:         Refreshing gog Library
+(12:06:14) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(12:06:14) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:14) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:14) INFO:    [Gog]:              Getting GOG library
+(12:06:14) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json auth
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Saved games data
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:15) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:18) INFO:    [Backend]:          Launching Deus Ex: Human Revolution - Director’s Cut (1370227705)
+(12:06:18) INFO:    [Backend]:          Preventing display from sleep
+(12:06:18) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(12:06:18) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:18) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:18) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(12:06:18) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(12:06:18) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.18
+(12:06:18) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.18!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(12:06:18) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(12:06:21) INFO:    [DXVKInstaller]:    installing dxvk on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Human Revolution - Director’s Cut
+(12:06:21) INFO:    [DXVKInstaller]:    dxvk already installed!
+(12:06:21) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/riley314/Games/Heroic/Prefixes/default/Deus Ex Human Revolution - Director’s Cut
+(12:06:21) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(12:06:21) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.18!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(12:06:21) INFO:    [Gog]:              Launching Deus Ex: Human Revolution - Director’s Cut: HEROIC_APP_NAME=1370227705 HEROIC_APP_RUNNER=gog HEROIC_APP_SOURCE=gog STEAM_COMPAT_INSTALL_PATH="/home/riley314/Games/Heroic/Deus Ex HRDC" LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/riley314/Games/Heroic/Prefixes/default/Deus Ex Human Revolution - Director’s Cut" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/riley314/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= GOGDL_CONFIG_PATH=/home/riley314/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/riley314/.config/heroic/gog_store/auth.json launch "/home/riley314/Games/Heroic/Deus Ex HRDC" 1370227705 --wine /usr/bin/wine --platform windows
+(12:06:21) INFO:    [Backend]:          Stopping Power Saver Blocker
+(12:06:21) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
+(12:06:21) INFO:    [Gog]:              Got install info from cache for 1370227705 on windows platform
